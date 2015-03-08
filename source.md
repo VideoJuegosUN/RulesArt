@@ -234,3 +234,83 @@ Slide:
 -[Journey(Pictórico)](http://thatgamecompany.com/games/journey/)<!-- .element: class="fragment" data-fragment-index="2"-->
 -[World of Goo(No realista)](http://es.wikipedia.org/wiki/World_of_Goo)<!-- .element: class="fragment" data-fragment-index="3"-->
 
+Slide:
+
+##Color
+
+[<img height="470" width="470"   src="fig/45.jpg">](paletton.com)
+
+Matiz (Hue) - Saturación (Saturation) - Luminancia  (Brightness)
+
+[paletton.com](paletton.com)
+
+Slide:
+
+##Color
+
+<img height="500" width="575"   src="fig/46.jpg"><img height="500" width="370"   src="fig/47.jpg">
+
+Matiz (Hue)
+
+Slide:
+
+##Color
+
+<img height="500" width="575"   src="fig/48.jpg"><img height="500" width="370"   src="fig/49.jpg">
+
+Saturación (Saturation)
+
+Slide:
+
+##Color
+
+<img height="500" width="575"   src="fig/50.jpg"><img height="500" width="370"   src="fig/51.jpg">
+
+Luminancia  (Brightness) / Contraste (Contrast)
+
+Slide:
+
+##Color
+
+<img height="500" width="470"   src="fig/52.jpg"><img height="500" width="470"   src="fig/53.jpg">
+
+Slide:
+
+##Color
+
+<img height="500" width="470"   src="fig/54.jpg"><img height="500" width="470"   src="fig/55.jpg">
+
+Colores cálidos y fríos / Perspectiva atmosférica
+
+Slide:
+
+##Color
+
+[<img height="300" width="312"   src="fig/56.jpg">](https://www.youtube.com/watch?v=m8e-FF8MsqU)<!-- .element: class="fragment" data-fragment-index="1"-->[<img height="300" width="312"   src="fig/57.jpg">](https://www.youtube.com/watch?v=1Fg5iWmQjwk)<!-- .element: class="fragment" data-fragment-index="2"-->[<img height="300" width="312"   src="fig/58.jpg">](https://www.youtube.com/watch?v=meCZ5hWNRFU)<!-- .element: class="fragment" data-fragment-index="3"-->
+
+[Matrix](https://www.youtube.com/watch?v=m8e-FF8MsqU)<!-- .element: class="fragment" data-fragment-index="1"-->
+-[Gran Hotel Budapest](https://www.youtube.com/watch?v=1Fg5iWmQjwk)<!-- .element: class="fragment" data-fragment-index="2"-->
+-[Oh brother where art thou](https://www.youtube.com/watch?v=meCZ5hWNRFU)<!-- .element: class="fragment" data-fragment-index="3"-->
+
+Slide:
+
+##Color
+
+[<img height="400" width="470"   src="fig/59.jpg">](https://www.youtube.com/watch?v=UbmdYasVDDg)<!-- .element: class="fragment" data-fragment-index="1"-->[<img height="400" width="470"   src="fig/60.jpg">](https://www.youtube.com/watch?v=PfQjc2hs34Y)<!-- .element: class="fragment" data-fragment-index="2"-->
+
+[Summer Wars](https://www.youtube.com/watch?v=UbmdYasVDDg)<!-- .element: class="fragment" data-fragment-index="1"-->
+-[Tekkonkinkreet](https://www.youtube.com/watch?v=PfQjc2hs34Y)<!-- .element: class="fragment" data-fragment-index="2"-->
+
+Slide:
+
+##Color
+
+<img height="400" width="312"   src="fig/61.jpg"><!-- .element: class="fragment" data-fragment-index="1"--><img height="400" width="312"   src="fig/62.jpg"><!-- .element: class="fragment" data-fragment-index="2"--><img height="400" width="312"   src="fig/63.jpg"><!-- .element: class="fragment" data-fragment-index="3"-->
+
+Psicología del color<!-- .element: class="fragment" data-fragment-index="1"-->
+
+¿Qué significa “Rojo”? ¿”Azul vs Rojo”? ¿”Verde”?<!-- .element: class="fragment" data-fragment-index="1"-->
+
+
+
+
