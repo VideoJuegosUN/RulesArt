@@ -172,7 +172,7 @@ Slide:
 
 Slide:
 
-##Forma
+##Forma (1 de 7)
 
 [<img height="500" width="470"   src="fig/32.jpg">](http://www.banrepcultural.org/blaavirtual/publicacionesbanrep/bolmuseo/1978/bol2/bof2.htm)<!-- .element: class="fragment" data-fragment-index="1"-->[<img height="500" width="470"   src="fig/33.jpg">](https://www.google.com/search?q=antonio+grass&client=ubuntu&hs=7Sv&channel=fs&biw=1280&bih=878&source=lnms&tbm=isch&sa=X&ei=0L35VML-OsTBggSihIO4Aw&ved=0CAYQ_AUoAQ)<!-- .element: class="fragment" data-fragment-index="2"--> 
 
@@ -181,7 +181,7 @@ Slide:
 
 Slide:
 
-##Forma
+##Forma (2 de 7)
 
 [<img height="500" width="470"   src="fig/34.jpg">](http://www.ancient.eu/article/489/)<!-- .element: class="fragment" data-fragment-index="1"-->[<img height="500" width="470"   src="fig/35.jpg">](http://www.odisea2008.com/2009/03/iconos-religiosos-rusos.html)<!-- .element: class="fragment" data-fragment-index="2"--> 
 
@@ -190,7 +190,7 @@ Slide:
 
 Slide:
 
-##Forma
+##Forma (3 de 7)
 
 <img height="480" width="470"   src="fig/36.jpg">
 
@@ -198,7 +198,7 @@ Slide:
 
 Slide:
 
-##Forma
+##Forma (4 de 7)
 
 [<img height="500" width="470"   src="fig/37.jpg">](http://es.wikipedia.org/wiki/Miguel_%C3%81ngel)<!-- .element: class="fragment" data-fragment-index="1"-->[<img height="500" width="470"   src="fig/38.jpg">](http://es.wikipedia.org/wiki/Johannes_Vermeer)<!-- .element: class="fragment" data-fragment-index="2"--> 
 
@@ -207,7 +207,7 @@ Slide:
 
 Slide:
 
-##Forma
+##Forma (5 de 7)
 
 [<img height="500" width="470"   src="fig/39.jpg">](http://es.wikipedia.org/wiki/Vasili_Kandinski)<!-- .element: class="fragment" data-fragment-index="1"-->[<img height="500" width="470"   src="fig/40.jpg">](http://es.wikipedia.org/wiki/Pablo_Picasso)<!-- .element: class="fragment" data-fragment-index="2"--> 
 
@@ -216,7 +216,7 @@ Slide:
 
 Slide:
 
-##Forma
+##Forma (6 de 7)
 
 [<img height="460" width="460"   src="fig/41.jpg">](http://es.wikipedia.org/wiki/Escuela_de_la_Bauhaus)
 
@@ -226,7 +226,7 @@ Círculo (Esfera)-Triángulo (Pirámide)-Cuadrado (Cubo)
 
 Slide:
 
-##Forma
+##Forma (7 de 7)
 
 [<img height="400" width="312"   src="fig/42.jpg">](http://es.wikipedia.org/wiki/Call_of_Duty)<!-- .element: class="fragment" data-fragment-index="1"-->[<img height="400" width="312"   src="fig/43.jpg">](http://thatgamecompany.com/games/journey/)<!-- .element: class="fragment" data-fragment-index="2"-->[<img height="400" width="312"   src="fig/44.jpg">](http://es.wikipedia.org/wiki/World_of_Goo)<!-- .element: class="fragment" data-fragment-index="3"-->
 
@@ -236,7 +236,7 @@ Slide:
 
 Slide:
 
-##Color
+##Color (1 de 9)
 
 [<img height="470" width="470"   src="fig/45.jpg">](paletton.com)
 
@@ -246,45 +246,47 @@ Matiz (Hue) - Saturación (Saturation) - Luminancia  (Brightness)
 
 Slide:
 
-##Color
+##Color (2 de 9)
 
-<img height="500" width="575"   src="fig/46.jpg"><img height="500" width="370"   src="fig/47.jpg">
+<img height="500" width="575"   src="fig/46.jpg"><!-- .element: class="fragment" data-fragment-index="1"--><img height="500" width="370"   src="fig/47.jpg"><!-- .element: class="fragment" data-fragment-index="2"-->
 
-Matiz (Hue)
-
-Slide:
-
-##Color
-
-<img height="500" width="575"   src="fig/48.jpg"><img height="500" width="370"   src="fig/49.jpg">
-
-Saturación (Saturation)
+Matiz (Hue)<!-- .element: class="fragment" data-fragment-index="1"-->
 
 Slide:
 
-##Color
+##Color (3 de 9)
 
-<img height="500" width="575"   src="fig/50.jpg"><img height="500" width="370"   src="fig/51.jpg">
+<img height="500" width="575"   src="fig/48.jpg"><!-- .element: class="fragment" data-fragment-index="1"--><img height="500" width="370"   src="fig/49.jpg"><!-- .element: class="fragment" data-fragment-index="2"-->
 
-Luminancia  (Brightness) / Contraste (Contrast)
-
-Slide:
-
-##Color
-
-<img height="500" width="470"   src="fig/52.jpg"><img height="500" width="470"   src="fig/53.jpg">
+Saturación (Saturation)<!-- .element: class="fragment" data-fragment-index="1"-->
 
 Slide:
 
-##Color
+##Color (4 de 9)
 
-<img height="500" width="470"   src="fig/54.jpg"><img height="500" width="470"   src="fig/55.jpg">
+<img height="500" width="575"   src="fig/50.jpg"><!-- .element: class="fragment" data-fragment-index="1"--><img height="500" width="370"   src="fig/51.jpg"><!-- .element: class="fragment" data-fragment-index="2"-->
 
-Colores cálidos y fríos / Perspectiva atmosférica
+Luminancia  (Brightness) / Contraste (Contrast)<!-- .element: class="fragment" data-fragment-index="1"-->
+
+Slide:
+ 
+##Color (5 de 9)
+
+<img height="500" width="470"   src="fig/52.jpg"><!-- .element: class="fragment" data-fragment-index="1"--><img height="500" width="470"   src="fig/53.jpg"><!-- .element: class="fragment" data-fragment-index="2"-->
 
 Slide:
 
-##Color
+##Color (6 de 9)
+
+<img height="450" width="470"   src="fig/54.jpg"><!-- .element: class="fragment" data-fragment-index="1"--><img height="450" width="470"   src="fig/55.jpg"><!-- .element: class="fragment" data-fragment-index="2"-->
+
+Colores cálidos y fríos<!-- .element: class="fragment" data-fragment-index="1"-->
+
+Perspectiva atmosférica<!-- .element: class="fragment" data-fragment-index="2"-->
+
+Slide:
+
+##Color (7 de 9)
 
 [<img height="300" width="312"   src="fig/56.jpg">](https://www.youtube.com/watch?v=m8e-FF8MsqU)<!-- .element: class="fragment" data-fragment-index="1"-->[<img height="300" width="312"   src="fig/57.jpg">](https://www.youtube.com/watch?v=1Fg5iWmQjwk)<!-- .element: class="fragment" data-fragment-index="2"-->[<img height="300" width="312"   src="fig/58.jpg">](https://www.youtube.com/watch?v=meCZ5hWNRFU)<!-- .element: class="fragment" data-fragment-index="3"-->
 
@@ -294,7 +296,7 @@ Slide:
 
 Slide:
 
-##Color
+##Color (8 de 9)
 
 [<img height="400" width="470"   src="fig/59.jpg">](https://www.youtube.com/watch?v=UbmdYasVDDg)<!-- .element: class="fragment" data-fragment-index="1"-->[<img height="400" width="470"   src="fig/60.jpg">](https://www.youtube.com/watch?v=PfQjc2hs34Y)<!-- .element: class="fragment" data-fragment-index="2"-->
 
@@ -303,13 +305,38 @@ Slide:
 
 Slide:
 
-##Color
+##Color (9 de 9)
 
 <img height="400" width="312"   src="fig/61.jpg"><!-- .element: class="fragment" data-fragment-index="1"--><img height="400" width="312"   src="fig/62.jpg"><!-- .element: class="fragment" data-fragment-index="2"--><img height="400" width="312"   src="fig/63.jpg"><!-- .element: class="fragment" data-fragment-index="3"-->
 
 Psicología del color<!-- .element: class="fragment" data-fragment-index="1"-->
 
 ¿Qué significa “Rojo”? ¿”Azul vs Rojo”? ¿”Verde”?<!-- .element: class="fragment" data-fragment-index="1"-->
+
+Slide:
+
+##Textura (1 de 3)
+
+<img height="300" width="940"   src="fig/64.jpg">
+
+Textura = Cualidad táctil de una imagen
+
+Slide:
+
+##Textura (2 de 3)
+[<img height="400" width="312"   src="fig/65.jpg">](https://www.youtube.com/watch?v=k0H1C8mD5o0)<!-- .element: class="fragment" data-fragment-index="1"-->[<img height="400" width="312"   src="fig/66.jpg">](https://www.youtube.com/watch?v=3OibB43zffI)<!-- .element: class="fragment" data-fragment-index="2"-->[<img height="400" width="312"   src="fig/67.jpg">](https://www.youtube.com/watch?v=Q-79BZ5-zCA)<!-- .element: class="fragment" data-fragment-index="3"-->
+
+[Machinarium](https://www.youtube.com/watch?v=k0H1C8mD5o0)<!-- .element: class="fragment" data-fragment-index="1"-->
+-[Child of Light](https://www.youtube.com/watch?v=3OibB43zffI)<!-- .element: class="fragment" data-fragment-index="2"-->
+-[The Neverhood](https://www.youtube.com/watch?v=Q-79BZ5-zCA)<!-- .element: class="fragment" data-fragment-index="3"-->
+
+Slide:
+
+##Textura (3 de 3)
+[<img height="500" width="470"   src="fig/68.jpg">](https://www.youtube.com/watch?v=ZtTtRKSJ9c4)<!-- .element: class="fragment" data-fragment-index="1"-->[<img height="500" width="470"   src="fig/69.jpg">](https://www.youtube.com/watch?v=3OibB43zffI)<!-- .element: class="fragment" data-fragment-index="2"-->
+
+[Little Big Planet](https://www.youtube.com/watch?v=ZtTtRKSJ9c4)<!-- .element: class="fragment" data-fragment-index="1"-->
+-[Okami](https://www.youtube.com/watch?v=zoMLeETx4O0)<!-- .element: class="fragment" data-fragment-index="2"-->
 
 
 
