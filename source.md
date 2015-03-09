@@ -14,7 +14,7 @@
 	</p>
 </section>
 
-Slide:
+Slide:    
 
 # Las reglas del arte
 
